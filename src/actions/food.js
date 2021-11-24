@@ -1,1 +1,1 @@
-import { food_pending, food_success, food_error } from '../constants/types';
+import { FOOD_PENDING, FOOD_SUCCESS, FOOD_ERROR } from '../constants/types';

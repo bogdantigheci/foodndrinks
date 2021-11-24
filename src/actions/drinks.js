@@ -1,5 +1,1 @@
-import {
-  drinks_pending,
-  drinks_success,
-  drinks_error,
-} from '../constants/types';
+import { DRINKS_ERROR, DRINKS_SUCCESS, DRINKS_ERROR } from '../constants/types';

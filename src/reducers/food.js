@@ -1,5 +1,5 @@
 import {
-  drinks_pending,
-  drinks_success,
-  drinks_error,
+  DRINKS_PENDING,
+  DRINKS_SUCCESS,
+  DRINKS_ERROR,
 } from '../constants/types';
