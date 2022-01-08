@@ -1,0 +1,26 @@
+.home {
+  height: 100%;
+  width: 100%;
+
+  .home-title {
+    h1 {
+      font-size: 56px;
+      font-family: 'Playfair Display', 'Times New Roman', Times, serif;
+      color: #041434;
+      text-transform: capitalize;
+      text-align: center;
+    }
+  }
+
+  .home-content {
+    height: 444px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: 50% 50%;
+    }
+  }
+}
